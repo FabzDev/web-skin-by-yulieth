@@ -39,7 +39,7 @@
 .hero-sby {
   border: 1px solid black;
   height: calc(100vh - 110px);
-  background-image: url(../../../../assets/Screenshot\ 2024-07-04\ 231738.png);
+  background-image:  linear-gradient(rgba(255, 0, 0, 0.201),rgba(255, 192, 203, 0.218)), url(../../../../assets/Screenshot\ 2024-07-04\ 231738.png);
 
   background-repeat: no-repeat;
   background-size: cover;
